@@ -1,6 +1,6 @@
-project: CodeAssignment.xcodeproj
+project: App.xcodeproj
 retain_swift_ui_previews: true
 schemes:
-- CodeAssignment
+- App
 targets:
-- CodeAssignment
+- App

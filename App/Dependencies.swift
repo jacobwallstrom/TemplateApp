@@ -1,6 +1,6 @@
 import Infrastructure
-import UseCases
 import Models
+import UseCases
 
 @MainActor
 class Dependencies {

@@ -1,4 +1,2 @@
 public struct
-Gateway {
-
-}
+Gateway {}

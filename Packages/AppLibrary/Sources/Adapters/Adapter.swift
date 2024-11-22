@@ -1,3 +1,1 @@
-public struct Adapter {
-
-}
+public struct Adapter {}

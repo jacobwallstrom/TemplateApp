@@ -4,5 +4,4 @@ import Foundation
 import Testing
 
 @MainActor
-@Test func sampleTest() async throws {
-}
+@Test func sampleTest() async throws {}

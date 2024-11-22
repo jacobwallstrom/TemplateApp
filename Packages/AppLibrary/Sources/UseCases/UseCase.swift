@@ -1,3 +1,1 @@
-public struct UseCase {
-
-}
+public struct UseCase {}

@@ -290,7 +290,7 @@
 /* Begin PBXTargetDependency section */
 		515FEC272CEFBAC900493F6D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 51B7FD542C9B659E00BCA8DA /* CodeAssignment */;
+			target = 51B7FD542C9B659E00BCA8DA /* App */;
 			targetProxy = 515FEC262CEFBAC900493F6D /* PBXContainerItemProxy */;
 		};
 		51FB4D9D2CBD33DF00C02D5C /* PBXTargetDependency */ = {
