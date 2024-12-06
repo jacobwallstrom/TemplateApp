@@ -7,3 +7,17 @@ IOS App starter pack for XCode featuring
   * AppLibrary Swift Package set up with seperate modules suitable for Clean Architecture
   * Swiftlint, Swiftformat and Periphery configured with fairly strict but useful settings
   * Separate Format target for formatting code
+
+## Start a new project based on the template
+
+Create the repository and add the template as an upstream project. 
+
+    git init MyRepo
+    cd MyRepo
+    git remote add upstream git@github.com:jacobwallstrom/TemplateApp.git
+    git fetch --all
+    git checkout -b upstream --track upstream/main
+    git co master
+    git checkout -b main
+
+  You can then add another remote for use with the project. Merging to and from the upstream branch should only be done for changes to the template app.
