@@ -17,7 +17,6 @@ Create the repository and add the template as an upstream project.
     git remote add upstream git@github.com:jacobwallstrom/TemplateApp.git
     git fetch --all
     git checkout -b upstream --track upstream/main
-    git co master
     git checkout -b main
 
-  You can then add another remote for use with the project. Merging to and from the upstream branch should only be done for changes to the template app.
+  This sets up a new main branch with the template repo as an starting point. You can then add another remote for use with your project. Merging to and from the upstream branch should only be done for changes to the template app itself. 
